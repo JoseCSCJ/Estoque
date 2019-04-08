@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "486019331440",
+    "firebase_url": "https://estoque-dfcae.firebaseio.com",
+    "project_id": "estoque-dfcae",
+    "storage_bucket": "estoque-dfcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486019331440:android:8c12d6b84517ebe5",
+        "android_client_info": {
+          "package_name": "com.example.estoque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486019331440-nv39pivkrvgslht7to0tkkqik1h6g3be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estoque",
+            "certificate_hash": "2b150f5c2048f1dde3ffbe69ad2e758562436b8c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvp55t-C7IgEg914nw7eqI8OtfWHbiTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486019331440-q46pdjb8rm5ct9glimp27dhd39g29g1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
